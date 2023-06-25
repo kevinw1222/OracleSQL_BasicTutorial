@@ -1,0 +1,13 @@
+SET ECHO ON
+SET VERIFY ON
+SET PAGESIZE 100
+SET LINESIZE 100
+spool \\Mac\Home\Desktop\SAIT\Winter_2023\CPRG_250_G\Assignment\Lab5_ManipulatingData\GHC_output.txt
+-- NEED TO CHANGE THE FIELPATH THAT MATCHES YOUR COMPUTER
+
+SELECT * FROM GHC_Department;
+SELECT * FROM GHC_Faculty;
+SELECT * FROM GHC_Course;
+SELECT * FROM GHC_Expertise;
+
+spool on

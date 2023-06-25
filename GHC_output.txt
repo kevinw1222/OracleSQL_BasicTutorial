@@ -1,0 +1,32 @@
+SQL> 
+SQL> SELECT * FROM GHC_Department;
+
+     DEPT# DEPT_NAME                                                                                                                                                                                                                                                                                        
+---------- --------------------                                                                                                                                                                                                                                                                             
+       100 Astrophysics                                                                                                                                                                                                                                                                                     
+
+1 row selected.
+
+SQL> SELECT * FROM GHC_Faculty;
+
+FACULTY_ID FIRSTNAME            SURNAME              DATE_HIRED  DATE_FIRED   IS_ACTIVE      DEPT#                                                                                                                                                                                                          
+---------- -------------------- -------------------- ----------- ----------- ---------- ----------                                                                                                                                                                                                          
+      1001 Danny                Faulkner             Jan 01,2022                      1        100                                                                                                                                                                                                          
+
+1 row selected.
+
+SQL> SELECT * FROM GHC_Course;
+
+COURSE_ COURSE_TITLE                      CREDITS                                                                                                                                                                                                                                                           
+------- ------------------------------ ----------                                                                                                                                                                                                                                                           
+APHY202 The Solar System                        5                                                                                                                                                                                                                                                           
+APHY204 Global Clusters                         5                                                                                                                                                                                                                                                           
+APHY302 Nebula                                  5                                                                                                                                                                                                                                                           
+
+3 rows selected.
+
+SQL> SELECT * FROM GHC_Expertise;
+
+no rows selected
+
+SQL> spool on
