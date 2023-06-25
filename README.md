@@ -9,3 +9,7 @@
 <p>The app will require to enter you account and password</p>
 <p><code>User-name: your_username_while_installation</code></p>
 <p><code>Password: your_password_while installation</code></p>
+
+<div>
+  <p>Update coming soon</p>
+</div>
