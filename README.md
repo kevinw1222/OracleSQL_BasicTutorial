@@ -1,5 +1,5 @@
 ## Part 1: Installation
-1. Go to https://www.oracle.com/database/technologies/appdev/xe.html for installation:
+1. Go to https://www.oracle.com/database/technologies/appdev/xe.html:
 		<ul>Click <b>Download Oracle Database XE</b></ul>
 2. Try either of the following program for installation:
 		<ul><b>setup.exe</b> or <b>Oracle Database 21c Express Edition.msi</b> (Prefer <b>setup.exe</b>)</ul>
