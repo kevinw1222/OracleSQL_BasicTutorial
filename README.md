@@ -1,11 +1,11 @@
 ## Part 1: Installation
 1. Go to https://www.oracle.com/database/technologies/appdev/xe.html for installation:
 		<ul>Click <b>Download Oracle Database XE</b></ul>
-2. Run either one of the following program for installation:
-		<ul><code>setup.exe</code> or <code>Oracle Database 21c Express Edition.msi</code></ul>
-		<ul><img width="757" alt="Screen Shot 2023-07-04 at 10 39 30 AM" src="https://github.com/kevinw1222/Oracle_SQL/assets/119633334/c19c221f-ff18-4d7c-af16-169a7fbb922e"></ul>
+2. Try either of the following program for installation:
+		<ul><b>setup.exe</b> or <b>Oracle Database 21c Express Edition.msi</b> (Prefer <b>setup.exe</b>)</ul>
+		<ul><img width="693" alt="Screen Shot 2023-07-04 at 1 24 14 PM" src="https://github.com/kevinw1222/OracleSQL_BasicTutorial/assets/119633334/8efa1e9c-06e2-408a-b103-e5f7b0fa4aac"></ul>
 3. You need to setup a password while the installation: (Default username has been create as SYS, SYSTEM or PDBADMIN)
-   	<ul><img width="567" alt="Screen Shot 2023-07-04 at 1 01 12 PM" src="https://github.com/kevinw1222/Oracle_SQL/assets/119633334/f1f0f76b-f11d-436e-9568-cfe3e572fda5"></ul>
+		<ul><img width="562" alt="Screen Shot 2023-07-04 at 1 25 31 PM" src="https://github.com/kevinw1222/OracleSQL_BasicTutorial/assets/119633334/cf91fd8b-6f99-4848-8585-be28c30667cd"></ul>
 <p>*For more detail steps, refer to: https://docs.oracle.com/en/database/oracle/oracle-database/18/xeinw/installing-oracle-database-xe.html#GUID-8A8E5F6D-F00E-40BD-B74D-A41CCC502AE9</p>
 <div>----- ----- ----- ----- ----- END OF PART 1 ----- ----- ----- ----- ----- </div>
 
