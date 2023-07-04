@@ -4,7 +4,7 @@
 2. Try either of the following program for installation:
 		<ul><b>setup.exe</b> or <b>Oracle Database 21c Express Edition.msi</b> (Prefer <b>setup.exe</b>)</ul>
 		<ul><img width="693" alt="Screen Shot 2023-07-04 at 1 24 14 PM" src="https://github.com/kevinw1222/OracleSQL_BasicTutorial/assets/119633334/8efa1e9c-06e2-408a-b103-e5f7b0fa4aac"></ul>
-3. You need to setup a password while the installation: (Default username has been create as SYS, SYSTEM or PDBADMIN)
+3. You need to setup a password while the installation: (Default username has been created as SYS, SYSTEM or PDBADMIN)
 		<ul><img width="562" alt="Screen Shot 2023-07-04 at 1 25 31 PM" src="https://github.com/kevinw1222/OracleSQL_BasicTutorial/assets/119633334/cf91fd8b-6f99-4848-8585-be28c30667cd"></ul>
 <p>*For more detail steps, refer to: https://docs.oracle.com/en/database/oracle/oracle-database/18/xeinw/installing-oracle-database-xe.html#GUID-8A8E5F6D-F00E-40BD-B74D-A41CCC502AE9</p>
 <div>----- ----- ----- ----- ----- END OF PART 1 ----- ----- ----- ----- ----- </div>
