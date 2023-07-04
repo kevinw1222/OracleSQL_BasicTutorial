@@ -7,7 +7,7 @@
 3. You need to setup a password while the installation: (Default username has been create as SYS, SYSTEM or PDBADMIN)
    	<ul><img width="567" alt="Screen Shot 2023-07-04 at 1 01 12 PM" src="https://github.com/kevinw1222/Oracle_SQL/assets/119633334/f1f0f76b-f11d-436e-9568-cfe3e572fda5"></ul>
 <p>*For more detail steps, refer to: https://docs.oracle.com/en/database/oracle/oracle-database/18/xeinw/installing-oracle-database-xe.html#GUID-8A8E5F6D-F00E-40BD-B74D-A41CCC502AE9</p>
-<break>----- ----- ----- ----- ----- END OF PART 1 ----- ----- ----- ----- ----- </break>
+<div>----- ----- ----- ----- ----- END OF PART 1 ----- ----- ----- ----- ----- </div>
 
 ## Part 2: Demonstration
 1. Click <b>Search</b> in task bar, find <b>SQL*Plus</b>;
@@ -18,4 +18,4 @@
 		<ul>Syntax looks like this:</ul>
 		<ul><code>SQL> start "X:\folder\sub-folder\file.sql"</code> or;</ul>
  		<ul><code>SQL> start \\folder\sub-folder\file.sql</code>(Parallels Desktop user)</ul>
-<break>----- ----- ----- ----- ----- More updates will coming soon ----- ----- ----- ----- ----- </break>
+<div>----- ----- ----- ----- ----- More updates will coming soon ----- ----- ----- ----- ----- </div>
