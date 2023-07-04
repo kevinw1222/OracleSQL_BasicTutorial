@@ -17,5 +17,5 @@
 3. Type <code>start</code> and drag the script file into the program:
 		<ul>Syntax looks like this:</ul>
 		<ul><code>SQL> start "X:\folder\sub-folder\file.sql"</code> or;</ul>
- 		<ul><code>SQL> start \\folder\sub-folder\file.sql</code>(Parallels Desktop user)</ul>
-<div>----- ----- ----- ----- ----- More updates will coming soon ----- ----- ----- ----- ----- </div>
+ 		<ul><code>SQL> start \\\folder\sub-folder\file.sql</code>(Parallels Desktop user)</ul>
+<div>----- ----- ----- ----- ----- UPDATES COMING SOON ----- ----- ----- ----- ----- </div>
